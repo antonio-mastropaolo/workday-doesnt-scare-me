@@ -1,0 +1,10 @@
+# local artifacts the wizard or demos create
+__pycache__/
+*.pyc
+.DS_Store
+setup.json
+my-prompts.md
+run-plan.txt
+expenses.csv
+demo-ai-cdsp/
+scratch/

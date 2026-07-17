@@ -1,0 +1,15 @@
+# workday-doesnt-scare-me · setup_wizard.py
+#
+# Runtime dependencies: NONE. The wizard is Python standard library only
+# (argparse, json, pathlib, shutil, subprocess, termios, threading, zipfile)
+# and runs on the python3 that ships with macOS (3.9+).
+#
+# `pip install -r requirements.txt` is intentionally a no-op, so this file
+# doubles as the proof. Non-Python prerequisites (checked by the wizard,
+# not installable via pip):
+#
+#   Claude Desktop        https://claude.ai/download
+#   Google Chrome         https://google.com/chrome
+#   Claude in Chrome      Chrome Web Store (the wizard opens the page)
+#   node / npx (LTS)      https://nodejs.org  — for the Gmail MCP server
+#   Duo Mobile            your university's 2FA app, for exactly one tap
