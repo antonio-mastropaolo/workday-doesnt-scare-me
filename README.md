@@ -12,7 +12,7 @@ William & Mary — School of Computing, Data Sciences & Physics.
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/workday-doesnt-scare-me.git
+git clone https://github.com/antonio-mastropaolo/workday-doesnt-scare-me.git
 cd workday-doesnt-scare-me
 python3 setup_wizard.py
 ```
